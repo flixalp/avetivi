@@ -1,2620 +1,1095 @@
-#EXTM3U 
-#EXTINF: -1 , ATV HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTM3U
+#EXTINF:0, ATV HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32977
-#EXTINF: -1 , SHOW HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, SHOW HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32961
-#EXTINF: -1 , FOX HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, FOX HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32971
-#EXTINF: -1 , KANAL D HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, KANAL D HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32968
-#EXTINF: -1 , STAR HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, STAR HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32960
-#EXTINF: -1 , TEVE 2 HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, TEVE 2 HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32959
-#EXTINF: -1 , TV 2 HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, TV 2 HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32955
-#EXTINF: -1 , BEYAZ HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, BEYAZ HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32973
-#EXTINF: -1 , DMAX 1080P
-#EXTGRP:ULUSAL
+#EXTINF:0, DMAX 1080P
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33041
-#EXTINF: -1 , KANAL 7 HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, KANAL 7 HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32969
-#EXTINF: -1 , SEMERKAND TV HD ( 1080P )
-#EXTGRP:ULUSAL
+#EXTINF:0, SEMERKAND TV HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32962
-#EXTINF: -1 , ATV FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, ATV FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32911
-#EXTINF: -1 , SHOW TV FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, SHOW TV FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32716
-#EXTINF: -1 , STAR TV FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, STAR TV FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32692
-#EXTINF: -1 , FOX FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, FOX FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32820
-#EXTINF: -1 , Teve 2 FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, Teve 2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32686
-#EXTINF: -1 , TRT 1 FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT 1 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32675
-#EXTINF: -1 , TV8 FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, TV8 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32751
-#EXTINF: -1 , A2 FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, A2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32925
-#EXTINF: -1 , BEYAZ FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, BEYAZ FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32873
-#EXTINF: -1 , DMAX FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, DMAX FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32841
-#EXTINF: -1 , KANAL 7 FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, KANAL 7 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32805
-#EXTINF: -1 , ATV HD
-#EXTGRP:ULUSAL
+#EXTINF:0, ATV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32983
-#EXTINF: -1 , SHOW HD
-#EXTGRP:ULUSAL
+#EXTINF:0, SHOW HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33050
-#EXTINF: -1 , FOX TV HD
-#EXTGRP:ULUSAL
+#EXTINF:0, FOX TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33007
-#EXTINF: -1 , FOX TV
-#EXTGRP:ULUSAL
+#EXTINF:0, FOX TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32848
-#EXTINF: -1 , STAR TV HD
-#EXTGRP:ULUSAL
+#EXTINF:0, STAR TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33055
-#EXTINF: -1 , TRT 1 HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32950
-#EXTINF: -1 , TRT 4K
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT 4K
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32673
-#EXTINF: -1 , TV 8 FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, TV 8 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32954
-#EXTINF: -1 , TV8 HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TV8 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33066
-#EXTINF: -1 , TV8.5 HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TV8.5 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32826
-#EXTINF: -1 , A PARA HD
-#EXTGRP:ULUSAL
+#EXTINF:0, A PARA HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32877
-#EXTINF: -1 , A2 TV
-#EXTGRP:ULUSAL
+#EXTINF:0, A2 TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32980
-#EXTINF: -1 , AKILLI TV
-#EXTGRP:ULUSAL
+#EXTINF:0, AKILLI TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32922
-#EXTINF: -1 , AKIT TV HD
-#EXTGRP:ULUSAL
+#EXTINF:0, AKIT TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32921
-#EXTINF: -1 , BEYAZ TV HD
-#EXTGRP:ULUSAL
+#EXTINF:0, BEYAZ TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32986
-#EXTINF: -1 , DMAX HD
-#EXTGRP:ULUSAL
+#EXTINF:0, DMAX HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32965
-#EXTINF: -1 , Euro D HD TR
-#EXTGRP:ULUSAL
+#EXTINF:0, Euro D HD TR
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32835
-#EXTINF: -1 , Euro Star
-#EXTGRP:ULUSAL
+#EXTINF:0, Euro Star
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32834
-#EXTINF: -1 , FB TV HD
-#EXTGRP:ULUSAL
+#EXTINF:0, FB TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32829
-#EXTINF: -1 , PLANET TURK
-#EXTGRP:ULUSAL
+#EXTINF:0, PLANET TURK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32733
-#EXTINF: -1 , PLANET TURK
-#EXTGRP:ULUSAL
+#EXTINF:0, PLANET TURK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33044
-#EXTINF: -1 , SEMERKAND
-#EXTGRP:ULUSAL
+#EXTINF:0, SEMERKAND
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33049
-#EXTINF: -1 , Semerkand HD
-#EXTGRP:ULUSAL
+#EXTINF:0, Semerkand HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32719
-#EXTINF: -1 , SHOW MAX HD
-#EXTGRP:ULUSAL
+#EXTINF:0, SHOW MAX HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32718
-#EXTINF: -1 , Show Turk TV
-#EXTGRP:ULUSAL
+#EXTINF:0, Show Turk TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32717
-#EXTINF: -1 , Star TV Euro
-#EXTGRP:ULUSAL
+#EXTINF:0, Star TV Euro
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32693
-#EXTINF: -1 , TAY TV
-#EXTGRP:ULUSAL
+#EXTINF:0, TAY TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32688
-#EXTINF: -1 , TJK TV
-#EXTGRP:ULUSAL
+#EXTINF:0, TJK TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32677
-#EXTINF: -1 , TLC HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TLC HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32676
-#EXTINF: -1 , TMB
-#EXTGRP:ULUSAL
+#EXTINF:0, TMB
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32730
-#EXTINF: -1 , TRT Arabic
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT Arabic
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32685
-#EXTINF: -1 , TRT ARAPCA
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT ARAPCA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32934
-#EXTINF: -1 , TRT AVAZ
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT AVAZ
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32935
-#EXTINF: -1 , TRT AVAZ HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT AVAZ HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32691
-#EXTINF: -1 , TRT DIYANET
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT DIYANET
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32939
-#EXTINF: -1 , TRT DIYANET HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT DIYANET HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32697
-#EXTINF: -1 , TRT Kurdi HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT Kurdi HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32729
-#EXTINF: -1 , TRT Turk
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT Turk
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32947
-#EXTINF: -1 , TRT Turk HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT Turk HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32748
-#EXTINF: -1 , TRT TüRK
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT TüRK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32948
-#EXTINF: -1 , TRT2 FHD
-#EXTGRP:ULUSAL
+#EXTINF:0, TRT2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32775
-#EXTINF: -1 , TV 5 HD
-#EXTGRP:ULUSAL
+#EXTINF:0, TV 5 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32876
-#EXTINF: -1 , Ucan Kus Tv HD
-#EXTGRP:ULUSAL
+#EXTINF:0, Ucan Kus Tv HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32781
-#EXTINF: -1 , YOL TV
-#EXTGRP:ULUSAL
+#EXTINF:0, YOL TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32867
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NR1 HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32741
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NR1 TURK HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32740
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NUMBER 1 HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33042
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", POWER HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32732
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", POWER TURK HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32731
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", CARTOON NETWORK HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33046
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NICK JR
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33040
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NICKELODEON HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33039
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MINIKA GO
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33022
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MINIKA COCUK
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33021
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BOOMERANG
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33017
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DISNEY XD / DUCK
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32997
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DISNEY JR
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32996
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DISNEY CHANNEL
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32995
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BABY TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32984
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Minika Cocuk(1)
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32938
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Baby TV HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32909
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BABYF
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32870
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Cartoon Network HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32864
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Disney Channel HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32844
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DISNEY JR HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32843
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", minika COCUK HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32761
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MINIKA GO HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32760
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", AKILLI TAVSAN MOMO TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32923
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", PEPE TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32735
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", PLANET COCUK
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33043
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", SL Kukuli TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32850
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", SL Niloya TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32849
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", SL Pepee TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32840
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TRT Cocuk FHD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32695
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TRT COCUK HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32951
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Aks TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32920
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Aksu TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32919
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Aktif TV HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32918
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Altas Tv
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32917
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", ALTAS TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32736
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Arti tv HD KU
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32913
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", As TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32912
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Ballkan TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32908
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BENGU TüRK
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32985
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BENGUTURK TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32875
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BEYKENT TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32796
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BRUKSEL TURK TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32869
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BURSA TV HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32868
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Cay TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32698
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Cem TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32862
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", CEM TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32989
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Ciftci TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32861
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Deniz Haber
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32816
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DIYALOG TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32774
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Diyar tv
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32863
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Dost TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32839
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DOST TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32998
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DRT DENIZLI
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32808
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Edessa TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32837
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Ege Turk TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32836
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Etv Manisa
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33005
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kabe TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32807
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KANAL 24
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33013
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kanal 26
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32804
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kanal 43
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32803
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KANAL 68
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32802
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KANAL AVRUPA
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32801
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KANAL B HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32800
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KANAL URFA
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32799
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kanal V
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32798
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KIBRIS DIYALOG
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32811
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kon TV HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32794
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KRT TV HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32789
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KUDUS TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32788
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", LALEGUL TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32786
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", LINE TV (Bursa)
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32734
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Mavi Karadeniz TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32768
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MC EU US
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32767
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Medine TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32766
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MELTEM TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32764
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MILYON TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32762
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MISKET TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32721
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Olay TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32737
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", ON4
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32787
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Rehber TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33006
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Royal TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32720
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", SAT7 TURK
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32722
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", SRT Sivas
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32694
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TEMPO TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32776
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV 4
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32815
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV 4 HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32852
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Tv A
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32916
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV EM
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32777
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV KAYSERI
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32910
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV5
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33065
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", VATAN TV HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32793
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", VIZYON 58
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32690
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", tv1000
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52281
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV1000 COMEDY HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52282
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV1000 MEGAHIT HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52283
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV1000 PREMIERE HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52187
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV1000 PREMIUM HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52284
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DOM KINO
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52159
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DOM KINO PREMIUM
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52158
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", 112 UA
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52179
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", 22x2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52176
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", 24 ТЕХНО
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52253
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", 2x2 TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52273
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", 365 Days
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52269
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", A1
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52214
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Akudji HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52173
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", AMC
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52257
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Amedia
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52267
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Amedia 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52271
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", ANI
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52213
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", AXN
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52280
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Box TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52180
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", BOXE TB
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52243
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Brodilo HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52172
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Cartoon Network
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52286
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", CHP Info
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52171
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Cinema
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52239
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", CTC
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52249
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", CTC LOVE
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52147
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DA VINCI LEARNING
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52201
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Detective
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52230
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", DISCOVERY CHANNEL HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52265
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Discovery Science HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52246
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Disney Channel HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52245
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Disney Kanal
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52266
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", EUREKA HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52264
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Euro News HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52242
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", EUROKINO
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52197
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Euronews RUSsian HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52168
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Eurosport 2 HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52240
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Extreme Sports
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52238
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", FINE LIVING HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52237
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", First Channel
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52196
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", FOX HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52235
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", FOX LIFE
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52277
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Friday
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52270
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", FUTBOL 3 HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52233
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Gorizont TV UA
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52166
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Gromads'ke
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52165
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", H&F
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52195
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", HAWE HOBEW
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52190
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", HBO 3
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52188
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", History HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52231
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", HOME
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52251
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", HOME TB
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52248
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Horse World
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52186
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", HTB HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52263
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Illusion
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52250
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Impact
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52219
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Impact
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52163
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Inter
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52162
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", JimJam
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52247
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", K1
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52161
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kaledoskop
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52160
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Karusel TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52244
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KHL TV HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52229
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KIDS
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52184
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kino Cinema HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52226
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kino Hit HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52227
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kino Home
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52228
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KINO Klub HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52199
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Kino Plus
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52183
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", KinoSvidanie
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52181
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", LIFE HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52224
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match Futbol 1
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52175
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match Futbol 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52174
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match Futbol 3
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52170
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MATCH IGRA
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52167
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match Our Sports
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52236
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match Premier
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52182
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match Sports
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52272
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match Sports
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52258
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match! Apeha HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52222
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match! Arena
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52262
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match! HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52221
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Match! Planet
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52220
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MIR 24
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52204
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Mir Belogor'ya
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52156
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MIR HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52218
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Mnogoserijnoje
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52164
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MostVideo HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52155
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MTV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52261
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MTV Dance
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52149
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MTV РОССИЯ
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52252
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MULT
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52146
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MUSICBOX UA
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52260
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MUZ TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52234
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Muzhskoe kino
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52142
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MuzSoyuz
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52154
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MY PLANET
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52255
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", MY3 TB
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52232
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Nadiya
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52153
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Nano TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52152
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Nash Futbol HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52211
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Nashe Kino
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52274
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NAT GEO HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52210
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NAT GEO Wild HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52209
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", National Geographic
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52275
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NICK Junior HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52207
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Nickelodeon HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52206
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NTS (Sevastopol')
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52151
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NTV FOOTBALL 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52141
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NTV FOOTBALL 3
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52139
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NTV HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52205
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", NTV Mir
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52140
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Ohota i Rybalka
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52212
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", ONE BY
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52177
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", One Channel
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52138
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", our cinema
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52137
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Our sport
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52203
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Outdoor Channel HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52202
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", PARAMOUNT COMEDY HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52200
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Pink Folk
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52136
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Premiera
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52276
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", RBK.
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52148
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", REN TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52259
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", RTG HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52198
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", RTVI NASHE KINO
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52135
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", RU.TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52215
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", RUSSIA  1 HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52145
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", RUSsia League HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52278
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Russia Roman
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52134
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Russia Today
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52133
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", RUSsian Music Box
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52144
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Shanson.TV
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52143
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", SOJUZ
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52157
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Sony Turbo
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52279
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", SOYUZ
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52194
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Sport 1 UA
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52193
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Sport Fights
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52150
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Star TB
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52225
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Strana FM HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52178
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TB3
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52208
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TLC HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52192
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TNT HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52191
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Travel Channel HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52189
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TV XXI
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52268
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", VIASAT EXPLORE HD
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52185
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", VIASAT HISTORY
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52254
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", VIASAT NATURE
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52241
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", VIASAT SPORT EAST
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52285
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Xtream Sports
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52256
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", YUTV (Cheboksary)
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52132
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Zoo Park
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52287
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", Zvezda
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52131
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", САРАФАН
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52223
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", ТВЦ
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52217
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", ЭГОИСТ ТВ
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52216
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:1 Kezban 1 Mahmut Adana Yollarinda
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/41992.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:40
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/41993.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Ali Baba ve 7 Cuceler
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/41994.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Arif v 216
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/41995.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Ask Masali
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/41996.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Av Mevsimi
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/41997.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Ay Lav Yu Tuu
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/41998.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Baba Mirasi
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/41999.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Babalarin Babasi
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42000.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Babam ve Oglum
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42001.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Babamin Kanatlari
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42002.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Batman Gotham'in Gaz Lambalari
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42003.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Benim Adim Feridun
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42004.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Benim Babam Bir Melek
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42005.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Benim Dünyam
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42006.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Beyaz Melek
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42007.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Bi O Kalmisti
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42008.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Bordo Bereliler Suriye
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42010.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Bosu Bir Yerde
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42011.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Bu Iste Bir Yalnizlik Var
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42012.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Calgi Cengi Ikimiz
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42013.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Cebimdeki Yabanci
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42014.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Cicek Abbas
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42015.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Cingöz Recai
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42016.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Cocuklar Sana Emanet
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42017.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Da? 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42018.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Dargin Kuzenler
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42019.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Deli Ormanli
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42020.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Deliha 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42021.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Devrim Arabalari
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42022.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Direnis Karatay
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42023.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Donerse Senindir
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42024.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Dünyanin En Güzel Kokusu
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42025.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Enes Batur Hayal mi Gercek mi
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42026.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Eskiya
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42027.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Fetih 1453
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42029.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Gönül Yarasi
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42030.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Görümce
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42031.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Günesi Gördüm
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42032.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Hadi Be Oglum
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42033.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Hep Yek 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42034.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Her Sey Asktan
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42035.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Hüddam
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42036.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Iftarlik Gazoz
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42037.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Ikimizin Yerine
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42038.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Ikinci Sans
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42039.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Istanbul Kirmizisi
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42040.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Kabadayi
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42041.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Kacma Birader
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42042.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Kardesim Benim
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42044.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Kardesim Benim 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42043.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Kendime Iyi Bak
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42045.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Kirpi
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42046.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Koca Dunya
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42047.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Kor
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42048.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Kotu Cocuk
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42049.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Oflu Hocanin Sifresi 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42051.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Olanlar Oldu
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42052.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Olumlu Dunya
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42053.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Psisik
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42054.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Recep Ivedik 1
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42055.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Recep Ivedik 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42056.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Recep Ivedik 3
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42057.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Recep Ivedik 4
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42058.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Recep Ivedik 5
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42059.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Ruzgar
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42060.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Saban Oglu Saban
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42061.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Scooby-Doo and Batman The Brave and the Bold
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42062.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Seni Gidi Seni
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42063.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Seni Seviyorum Adamim
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42064.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Sumelanin Sifresi 3 Cunyor Temel
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42066.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Tatlim Tatlim
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42067.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Tereddut
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42068.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Uc Harfliler 3 Karabuyu
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42070.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Ver Kac
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42071.mp4
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Yav He He
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42072.mkv
-#EXTINF: -1 tvg-name="GUNCEL BILGILER" tvg-logo="https://iptv4content.net/images/1.png", TR:Yok Artik 2
-#EXTGRP:ULUSAL
-http://ea8.oknirvana.club:8880/movie/6M6427/END5tVFZHr/42073.mkv
-#EXTINF: -1 , A HABER FHD
-#EXTGRP:HABER
+#EXTINF:0, A HABER FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32929
-#EXTINF: -1 , A HABER HD
-#EXTGRP:HABER
+#EXTINF:0, A HABER HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32981
-#EXTINF: -1 , A News HD
-#EXTGRP:HABER
+#EXTINF:0, A News HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32928
-#EXTINF: -1 , ASPOR HD
-#EXTGRP:HABER
+#EXTINF:0, ASPOR HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32872
-#EXTINF: -1 , CNN
-#EXTGRP:HABER
+#EXTINF:0, CNN
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32937
-#EXTINF: -1 , CNN TURK FHD
-#EXTGRP:HABER
+#EXTINF:0, CNN TURK FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32853
-#EXTINF: -1 , CNN TURK HD
-#EXTGRP:HABER
+#EXTINF:0, CNN TURK HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32993
-#EXTINF: -1 , CNN TüRK HD ( 1080P )
-#EXTGRP:HABER
+#EXTINF:0, CNN TüRK HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32972
-#EXTINF: -1 , HABER GLOBAL HD
-#EXTGRP:HABER
+#EXTINF:0, HABER GLOBAL HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32814
-#EXTINF: -1 , HABER TURK
-#EXTGRP:HABER
+#EXTINF:0, HABER TURK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33009
-#EXTINF: -1 , Haber Turk
-#EXTGRP:HABER
+#EXTINF:0, Haber Turk
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32942
-#EXTINF: -1 , HABER TURK FHD
-#EXTGRP:HABER
+#EXTINF:0, HABER TURK FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32813
-#EXTINF: -1 , HABER TüRK HD ( 1080P )
-#EXTGRP:HABER
+#EXTINF:0, HABER TüRK HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32970
-#EXTINF: -1 , NTV HABER HD
-#EXTGRP:HABER
+#EXTINF:0, NTV HABER HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32765
-#EXTINF: -1 , NTV FHD
-#EXTGRP:HABER
+#EXTINF:0, NTV FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32739
-#EXTINF: -1 , NTV HD ( 1080P )
-#EXTGRP:HABER
+#EXTINF:0, NTV HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32966
-#EXTINF: -1 , TRT HABER HD
-#EXTGRP:HABER
+#EXTINF:0, TRT HABER HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32941
-#EXTINF: -1 , TRT Haber HD
-#EXTGRP:HABER
+#EXTINF:0, TRT Haber HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32708
-#EXTINF: -1 , TRT HABER HD ( 1080P )
-#EXTGRP:HABER
+#EXTINF:0, TRT HABER HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32957
-#EXTINF: -1 , 24 HABER
-#EXTGRP:HABER
+#EXTINF:0, 24 HABER
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32932
-#EXTINF: -1 , 360 HD
-#EXTGRP:HABER
+#EXTINF:0, 360 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32930
-#EXTINF: -1 , 360 TV
-#EXTGRP:HABER
+#EXTINF:0, 360 TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33060
-#EXTINF: -1 , BLOOMBERG HD
-#EXTGRP:HABER
+#EXTINF:0, BLOOMBERG HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32988
-#EXTINF: -1 , BLOOMBERG HT FHD
-#EXTGRP:HABER
+#EXTINF:0, BLOOMBERG HT FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32871
-#EXTINF: -1 , HALK TV
-#EXTGRP:HABER
+#EXTINF:0, HALK TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33010
-#EXTINF: -1 , HALK TV HD
-#EXTGRP:HABER
+#EXTINF:0, HALK TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32812
-#EXTINF: -1 , SKY TURK 360
-#EXTGRP:HABER
+#EXTINF:0, SKY TURK 360
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33051
-#EXTINF: -1 , Sky Turk 360
-#EXTGRP:HABER
+#EXTINF:0, Sky Turk 360
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32702
-#EXTINF: -1 , TBMM TV
-#EXTGRP:HABER
+#EXTINF:0, TBMM TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32865
-#EXTINF: -1 , TGRT EU
-#EXTGRP:HABER
+#EXTINF:0, TGRT EU
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32683
-#EXTINF: -1 , TRT WORLD
-#EXTGRP:HABER
+#EXTINF:0, TRT WORLD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32738
-#EXTINF: -1 , TRT WORLD
-#EXTGRP:HABER
+#EXTINF:0, TRT WORLD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32949
-#EXTINF: -1 , TRT World HD
-#EXTGRP:HABER
+#EXTINF:0, TRT World HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32750
-#EXTINF: -1 , TV 100 FHD
-#EXTGRP:HABER
+#EXTINF:0, TV 100 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32657
-#EXTINF: -1 , TVnet HD
-#EXTGRP:HABER
+#EXTINF:0, TVnet HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32752
-#EXTINF: -1 , TVNET HD ( 1080P )
-#EXTGRP:HABER
+#EXTINF:0, TVNET HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32953
-#EXTINF: -1 , ULKE FHD
-#EXTGRP:HABER
+#EXTINF:0, ULKE FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32782
-#EXTINF: -1 , ULKE HD
-#EXTGRP:HABER
+#EXTINF:0, ULKE HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33067
-#EXTINF: -1 , ULUSAL TV
-#EXTGRP:HABER
+#EXTINF:0, ULUSAL TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32783
-#EXTINF: -1 , üLKE TV HD ( 1080P )
-#EXTGRP:HABER
+#EXTINF:0, üLKE TV HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32952
-#EXTINF: -1 , TGRT Haber
-#EXTGRP:HABER
+#EXTINF:0, TGRT Haber
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32940
-#EXTINF: -1 , TGRT HABER
-#EXTGRP:HABER
+#EXTINF:0, TGRT HABER
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33056
-#EXTINF: -1 , TGRT HABER HD
-#EXTGRP:HABER
+#EXTINF:0, TGRT HABER HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32682
-#EXTINF: -1 , TELE 1 HD TR
-#EXTGRP:HABER
+#EXTINF:0, TELE 1 HD TR
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32687
-#EXTINF: -1 , TV NET
-#EXTGRP:HABER
+#EXTINF:0, TV NET
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33063
-#EXTINF: -1 , Uzay Haber
-#EXTGRP:HABER
+#EXTINF:0, Uzay Haber
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32784
-#EXTINF: -1 , Turkish Bein Sports 1
-#EXTGRP:SPOR
+#EXTINF:0, Turkish Bein Sports 1
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32933
-#EXTINF: -1 , beIN Sports 1 FHD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports 1 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32889
-#EXTINF: -1 , beIN Sports 1 HD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32886
-#EXTINF: -1 , beIN Sports 2 FHD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports 2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32888
-#EXTINF: -1 , beIN Sports 2 HD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32885
-#EXTINF: -1 , beIN 3 FHD
-#EXTGRP:SPOR
+#EXTINF:0, beIN 3 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32904
-#EXTINF: -1 , beIN Sports 3 HD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports 3 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32884
-#EXTINF: -1 , Bein Sports 3
-#EXTGRP:SPOR
+#EXTINF:0, Bein Sports 3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33016
-#EXTINF: -1 , Bein sports 4
-#EXTGRP:SPOR
+#EXTINF:0, Bein sports 4
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32699
-#EXTINF: -1 , beIN Sports 4 FHD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports 4 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32887
-#EXTINF: -1 , beIN Sports 4 HD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports 4 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32883
-#EXTINF: -1 , beIN Sports FHD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32882
-#EXTINF: -1 , beIN Sports HABER HD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports HABER HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32879
-#EXTINF: -1 , beIN Sports IZ 1 HD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports IZ 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32878
-#EXTINF: -1 , beIN Sports Max 1 FHD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports Max 1 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32881
-#EXTINF: -1 , beIN Sports Max 2 FHD
-#EXTGRP:SPOR
+#EXTINF:0, beIN Sports Max 2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32880
-#EXTINF: -1 , S SPORT FHD
-#EXTGRP:SPOR
+#EXTINF:0, S SPORT FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32727
-#EXTINF: -1 , S SPORT HD
-#EXTGRP:SPOR
+#EXTINF:0, S SPORT HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33052
-#EXTINF: -1 , SARAN SPORT HD
-#EXTGRP:SPOR
+#EXTINF:0, SARAN SPORT HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32723
-#EXTINF: -1 , S SPORT 2 FHD
-#EXTGRP:SPOR
+#EXTINF:0, S SPORT 2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32728
-#EXTINF: -1 , SMART SPOR 1 HD
-#EXTGRP:SPOR
+#EXTINF:0, SMART SPOR 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32700
-#EXTINF: -1 , SPOR SMART
-#EXTGRP:SPOR
+#EXTINF:0, SPOR SMART
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33053
-#EXTINF: -1 , tivibu spor 1 FHD
-#EXTGRP:SPOR
+#EXTINF:0, tivibu spor 1 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32680
-#EXTINF: -1 , tivibu spor 2 FHD
-#EXTGRP:SPOR
+#EXTINF:0, tivibu spor 2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32679
-#EXTINF: -1 , TIVIBU SPOR 2 HD
-#EXTGRP:SPOR
+#EXTINF:0, TIVIBU SPOR 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33057
-#EXTINF: -1 , TIVIBU SPOR 3 HD
-#EXTGRP:SPOR
+#EXTINF:0, TIVIBU SPOR 3 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33059
-#EXTINF: -1 , TIVIBU SPOR 3 HD
-#EXTGRP:SPOR
+#EXTINF:0, TIVIBU SPOR 3 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32689
-#EXTINF: -1 , TIVIBUSPOR 1 HD
-#EXTGRP:SPOR
+#EXTINF:0, TIVIBUSPOR 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33058
-#EXTINF: -1 , TIVIBUSPOR 4 HD
-#EXTGRP:SPOR
+#EXTINF:0, TIVIBUSPOR 4 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32681
-#EXTINF: -1 , TRT SPOR FHD
-#EXTGRP:SPOR
+#EXTINF:0, TRT SPOR FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33061
-#EXTINF: -1 , TRT SPOR 2 HD
-#EXTGRP:SPOR
+#EXTINF:0, TRT SPOR 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32674
-#EXTINF: -1 , A SPOR
-#EXTGRP:SPOR
+#EXTINF:0, A SPOR
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32785
-#EXTINF: -1 , A SPOR HD
-#EXTGRP:SPOR
+#EXTINF:0, A SPOR HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32982
-#EXTINF: -1 , A SPOR HD ( 1080P )
-#EXTGRP:SPOR
+#EXTINF:0, A SPOR HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32978
-#EXTINF: -1 , A SPORT FHD
-#EXTGRP:SPOR
+#EXTINF:0, A SPORT FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32926
-#EXTINF: -1 , EUROSPORT HD
-#EXTGRP:SPOR
+#EXTINF:0, EUROSPORT HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33001
-#EXTINF: -1 , EUROSPORT 1 HD
-#EXTGRP:SPOR
+#EXTINF:0, EUROSPORT 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32833
-#EXTINF: -1 , EURO SPORT2 HD
-#EXTGRP:SPOR
+#EXTINF:0, EURO SPORT2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33002
-#EXTINF: -1 , EUROSPORT 2 HD
-#EXTGRP:SPOR
+#EXTINF:0, EUROSPORT 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32832
-#EXTINF: -1 , FB TV HD
-#EXTGRP:SPOR
+#EXTINF:0, FB TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33004
-#EXTINF: -1 , GS TV HD
-#EXTGRP:SPOR
+#EXTINF:0, GS TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32817
-#EXTINF: -1 , BJK TV HD
-#EXTGRP:SPOR
+#EXTINF:0, BJK TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32987
-#EXTINF: -1 , FANATIK TV
-#EXTGRP:SPOR
+#EXTINF:0, FANATIK TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33003
-#EXTINF: -1 , FENERBAHCE TV
-#EXTGRP:SPOR
+#EXTINF:0, FENERBAHCE TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32763
-#EXTINF: -1 , GSTV HD
-#EXTGRP:SPOR
+#EXTINF:0, GSTV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33008
-#EXTINF: -1 , NBA TV FHD
-#EXTGRP:SPOR
+#EXTINF:0, NBA TV FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32743
-#EXTINF: -1 , SPORTS TV  HD
-#EXTGRP:SPOR
+#EXTINF:0, SPORTS TV  HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33054
-#EXTINF: -1 , SPORTS TV HD
-#EXTGRP:SPOR
+#EXTINF:0, SPORTS TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32946
-#EXTINF: -1 , beIN Movies Action FHD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Movies Action FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32897
-#EXTINF: -1 , beIN MOVIES ACTION 2
-#EXTGRP:SINEMA
+#EXTINF:0, beIN MOVIES ACTION 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32905
-#EXTINF: -1 , beIN Movies Comedy HD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Movies Comedy HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32976
-#EXTINF: -1 , beIN MOVIES FAMILY
-#EXTGRP:SINEMA
+#EXTINF:0, beIN MOVIES FAMILY
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32924
-#EXTINF: -1 , beIN Movies HD Stars FHD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Movies HD Stars FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32896
-#EXTINF: -1 , beIN Movies Premiere FHD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Movies Premiere FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32894
-#EXTINF: -1 , beIN Movies Premiere 2 FHD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Movies Premiere 2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32895
-#EXTINF: -1 , beIN Movies Stars HD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Movies Stars HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32975
-#EXTINF: -1 , beIN Movies Turk
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Movies Turk
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32974
-#EXTINF: -1 , beIN Movies Turk FHD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Movies Turk FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32893
-#EXTINF: -1 , beIN Series Comedy FHD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Series Comedy FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32892
-#EXTINF: -1 , beIN SERIES DRAMA
-#EXTGRP:SINEMA
+#EXTINF:0, beIN SERIES DRAMA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33024
-#EXTINF: -1 , beIN Series Sci-Fi FHD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Series Sci-Fi FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32891
-#EXTINF: -1 , beIN Series Vice FHD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Series Vice FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32890
-#EXTINF: -1 , BEiN BOX OFF
-#EXTGRP:SINEMA
+#EXTINF:0, BEiN BOX OFF
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32874
-#EXTINF: -1 , BEIN BOX OFFICE 1 HD
-#EXTGRP:SINEMA
+#EXTINF:0, BEIN BOX OFFICE 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32956
-#EXTINF: -1 , beIN Box Office 1 HD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Box Office 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32903
-#EXTINF: -1 , bEIN BOX OFFICE 2 HD
-#EXTGRP:SINEMA
+#EXTINF:0, bEIN BOX OFFICE 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33048
-#EXTINF: -1 , beIN Box Office 2 HD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN Box Office 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32902
-#EXTINF: -1 , beIN BOX Office 3 HD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN BOX Office 3 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32901
-#EXTINF: -1 , beIN BOX OFFICE Turk HD
-#EXTGRP:SINEMA
+#EXTINF:0, beIN BOX OFFICE Turk HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32900
-#EXTINF: -1 , Movie Smart Family HD
-#EXTGRP:SINEMA
+#EXTINF:0, Movie Smart Family HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32759
-#EXTINF: -1 , Movie Smart Fest FHD
-#EXTGRP:SINEMA
+#EXTINF:0, Movie Smart Fest FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32758
-#EXTINF: -1 , Movie smart Gold HD
-#EXTGRP:SINEMA
+#EXTINF:0, Movie smart Gold HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32757
-#EXTINF: -1 , Movie smart Platin HD
-#EXTGRP:SINEMA
+#EXTINF:0, Movie smart Platin HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32755
-#EXTINF: -1 , Movie smart Platin 2 FHD
-#EXTGRP:SINEMA
+#EXTINF:0, Movie smart Platin 2 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32756
-#EXTINF: -1 , DIZI SMART PREMIUM HD
-#EXTGRP:SINEMA
+#EXTINF:0, DIZI SMART PREMIUM HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32842
-#EXTINF: -1 , MOVIE SMART PREMIUM 1 HD
-#EXTGRP:SINEMA
+#EXTINF:0, MOVIE SMART PREMIUM 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32754
-#EXTINF: -1 , Movie Smart Premium 2 HD
-#EXTGRP:SINEMA
+#EXTINF:0, Movie Smart Premium 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32753
-#EXTINF: -1 , Moviesmart Action
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Action
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33027
-#EXTINF: -1 , Moviesmart Classic
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Classic
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33028
-#EXTINF: -1 , Moviesmart Family
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Family
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33029
-#EXTINF: -1 , Moviesmart Fest
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Fest
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33030
-#EXTINF: -1 , Moviesmart Gold
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Gold
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33031
-#EXTINF: -1 , Moviesmart Platin
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Platin
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33032
-#EXTINF: -1 , Moviesmart Platin 2
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Platin 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33033
-#EXTINF: -1 , Moviesmart Premium
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Premium
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33034
-#EXTINF: -1 , Moviesmart Premium 2
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Premium 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33035
-#EXTINF: -1 , Moviesmart Turk
-#EXTGRP:SINEMA
+#EXTINF:0, Moviesmart Turk
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33036
-#EXTINF: -1 , SINEMA 1001 HD
-#EXTGRP:SINEMA
+#EXTINF:0, SINEMA 1001 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32715
-#EXTINF: -1 , SINEMA AKSiYON
-#EXTGRP:SINEMA
+#EXTINF:0, SINEMA AKSiYON
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32773
-#EXTINF: -1 , SINEMA HD
-#EXTGRP:SINEMA
+#EXTINF:0, SINEMA HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32712
-#EXTINF: -1 , SINEMA TV 1 HD
-#EXTGRP:SINEMA
+#EXTINF:0, SINEMA TV 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32710
-#EXTINF: -1 , SINEMA TV AILE
-#EXTGRP:SINEMA
+#EXTINF:0, SINEMA TV AILE
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32860
-#EXTINF: -1 , SiNEMA TV KOMEDi
-#EXTGRP:SINEMA
+#EXTINF:0, SiNEMA TV KOMEDi
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32858
-#EXTINF: -1 , FOX CRIME HD
-#EXTGRP:SINEMA
+#EXTINF:0, FOX CRIME HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32821
-#EXTINF: -1 , FX HD
-#EXTGRP:SINEMA
+#EXTINF:0, FX HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32818
-#EXTINF: -1 , SONY CHANNEL HD
-#EXTGRP:SINEMA
+#EXTINF:0, SONY CHANNEL HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32696
-#EXTINF: -1 , Fox Life HD
-#EXTGRP:SINEMA
+#EXTINF:0, Fox Life HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32819
-#EXTINF: -1 , SALON 1 HD
-#EXTGRP:SINEMA
+#EXTINF:0, SALON 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33047
-#EXTINF: -1 , Salon 1 HD
-#EXTGRP:SINEMA
+#EXTINF:0, Salon 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32726
-#EXTINF: -1 , Salon 2 HD
-#EXTGRP:SINEMA
+#EXTINF:0, Salon 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32725
-#EXTINF: -1 , Salon 3 HD
-#EXTGRP:SINEMA
+#EXTINF:0, Salon 3 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32724
-#EXTINF: -1 , SLTV GOLD HD
-#EXTGRP:SINEMA
+#EXTINF:0, SLTV GOLD HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32769
-#EXTINF: -1 , SLTV KEMAL SUNAL 1
-#EXTGRP:SINEMA
+#EXTINF:0, SLTV KEMAL SUNAL 1
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32831
-#EXTINF: -1 , SLTV KEMAL SUNAL 2
-#EXTGRP:SINEMA
+#EXTINF:0, SLTV KEMAL SUNAL 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32830
-#EXTINF: -1 , KEMAL SUNAL HD
-#EXTGRP:SINEMA
+#EXTINF:0, KEMAL SUNAL HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32797
-#EXTINF: -1 , SLTV KOMEDI HD
-#EXTGRP:SINEMA
+#EXTINF:0, SLTV KOMEDI HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32770
-#EXTINF: -1 , SLTV PREMIUM HD
-#EXTGRP:SINEMA
+#EXTINF:0, SLTV PREMIUM HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32828
-#EXTINF: -1 , SLTV YESILCAM 2
-#EXTGRP:SINEMA
+#EXTINF:0, SLTV YESILCAM 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32854
-#EXTINF: -1 , YESiLCAM TV HD
-#EXTGRP:SINEMA
+#EXTINF:0, YESiLCAM TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32742
-#EXTINF: -1 , ELIT SINEMA AILE 2 HD
-#EXTGRP:SINEMA
+#EXTINF:0, ELIT SINEMA AILE 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32714
-#EXTINF: -1 , ELIT SINEMA AKSIYON HD
-#EXTGRP:SINEMA
+#EXTINF:0, ELIT SINEMA AKSIYON HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32713
-#EXTINF: -1 , ELIT SINEMA AKSIYON 2 HD
-#EXTGRP:SINEMA
+#EXTINF:0, ELIT SINEMA AKSIYON 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32749
-#EXTINF: -1 , ELIT SINEMA KOMEDI HD
-#EXTGRP:SINEMA
+#EXTINF:0, ELIT SINEMA KOMEDI HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32711
-#EXTINF: -1 , ELIT SINEMA KOMEDI 2 HD
-#EXTGRP:SINEMA
+#EXTINF:0, ELIT SINEMA KOMEDI 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32771
-#EXTINF: -1 , EnoVizyon 1
-#EXTGRP:SINEMA
+#EXTINF:0, EnoVizyon 1
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32992
-#EXTINF: -1 , EnoVizyon 2
-#EXTGRP:SINEMA
+#EXTINF:0, EnoVizyon 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32991
-#EXTINF: -1 , EnoVizyon 3
-#EXTGRP:SINEMA
+#EXTINF:0, EnoVizyon 3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32990
-#EXTINF: -1 , LOCA 1 HD
-#EXTGRP:SINEMA
+#EXTINF:0, LOCA 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32780
-#EXTINF: -1 , LOCA 1HD
-#EXTGRP:SINEMA
+#EXTINF:0, LOCA 1HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33018
-#EXTINF: -1 , LOCA 2 HD
-#EXTGRP:SINEMA
+#EXTINF:0, LOCA 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32779
-#EXTINF: -1 , LOCA 2HD
-#EXTGRP:SINEMA
+#EXTINF:0, LOCA 2HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33019
-#EXTINF: -1 , LOCA 3 FHD
-#EXTGRP:SINEMA
+#EXTINF:0, LOCA 3 FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32778
-#EXTINF: -1 , LOCA 3HD
-#EXTGRP:SINEMA
+#EXTINF:0, LOCA 3HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33020
-#EXTINF: -1 , Sinema Yerli HD
-#EXTGRP:SINEMA
+#EXTINF:0, Sinema Yerli HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32709
-#EXTINF: -1 , SINEMAX VIZYON 1
-#EXTGRP:SINEMA
+#EXTINF:0, SINEMAX VIZYON 1
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32707
-#EXTINF: -1 , SINEMAX VIZYON 2
-#EXTGRP:SINEMA
+#EXTINF:0, SINEMAX VIZYON 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32706
-#EXTINF: -1 , SINEVIZYON 1
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON 1
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32857
-#EXTINF: -1 , SINEVIZYON 2
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32859
-#EXTINF: -1 , SINEVIZYON 3
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON 3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32856
-#EXTINF: -1 , SINEVIZYON 4
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON 4
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32855
-#EXTINF: -1 , SINEVIZYON 5
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON 5
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32827
-#EXTINF: -1 , SINEVIZYON 6
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON 6
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32795
-#EXTINF: -1 , SINEVIZYON 7
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON 7
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32772
-#EXTINF: -1 , SINEVIZYON TURK 2
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON TURK 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32705
-#EXTINF: -1 , SINEVIZYON TURK 3
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON TURK 3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32704
-#EXTINF: -1 , SINEVIZYON TURK 4
-#EXTGRP:SINEMA
+#EXTINF:0, SINEVIZYON TURK 4
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32703
-#EXTINF: -1 , YESILCAM BOX 2
-#EXTGRP:SINEMA
+#EXTINF:0, YESILCAM BOX 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32824
-#EXTINF: -1 , YESILCAM BOX 3
-#EXTGRP:SINEMA
+#EXTINF:0, YESILCAM BOX 3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32823
-#EXTINF: -1 , YESILCAM BOX 4
-#EXTGRP:SINEMA
+#EXTINF:0, YESILCAM BOX 4
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32822
-#EXTINF: -1 , YESILCAM BOX 5
-#EXTGRP:SINEMA
+#EXTINF:0, YESILCAM BOX 5
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32825
-#EXTINF: -1 , YESILCAM BOX 6
-#EXTGRP:SINEMA
+#EXTINF:0, YESILCAM BOX 6
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33023
-#EXTINF: -1 , YESILCAM BOX 7
-#EXTGRP:SINEMA
+#EXTINF:0, YESILCAM BOX 7
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33025
-#EXTINF: -1 , YESILCAM BOX 8
-#EXTGRP:SINEMA
+#EXTINF:0, YESILCAM BOX 8
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33026
-#EXTINF: -1 , YESILCAM BOX 9
-#EXTGRP:SINEMA
+#EXTINF:0, YESILCAM BOX 9
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32747
-#EXTINF: -1 , ANIMAL PLANET HD
-#EXTGRP:BELGESEL
+#EXTINF:0, ANIMAL PLANET HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32915
-#EXTINF: -1 , BBC Earth HD
-#EXTGRP:BELGESEL
+#EXTINF:0, BBC Earth HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32979
-#EXTINF: -1 , BBC Earth HD
-#EXTGRP:BELGESEL
+#EXTINF:0, BBC Earth HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32907
-#EXTINF: -1 , beIN GURME HD
-#EXTGRP:BELGESEL
+#EXTINF:0, beIN GURME HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32899
-#EXTINF: -1 , BeIN Gurme HD
-#EXTGRP:BELGESEL
+#EXTINF:0, BeIN Gurme HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33062
-#EXTINF: -1 , beIN IZ HD
-#EXTGRP:BELGESEL
+#EXTINF:0, beIN IZ HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33012
-#EXTINF: -1 , beIN IZ HD
-#EXTGRP:BELGESEL
+#EXTINF:0, beIN IZ HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32898
-#EXTINF: -1 , CRI TURK BELGESEL
-#EXTGRP:BELGESEL
+#EXTINF:0, CRI TURK BELGESEL
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32866
-#EXTINF: -1 , Da Vinci HD
-#EXTGRP:BELGESEL
+#EXTINF:0, Da Vinci HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32851
-#EXTINF: -1 , DISCOVERY CHANNEL HD
-#EXTGRP:BELGESEL
+#EXTINF:0, DISCOVERY CHANNEL HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32994
-#EXTINF: -1 , Discovery Channel HD
-#EXTGRP:BELGESEL
+#EXTINF:0, Discovery Channel HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32847
-#EXTINF: -1 , DISCOVERY ID
-#EXTGRP:BELGESEL
+#EXTINF:0, DISCOVERY ID
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32809
-#EXTINF: -1 , Discovery Science HD
-#EXTGRP:BELGESEL
+#EXTINF:0, Discovery Science HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32846
-#EXTINF: -1 , Discovery SHOWCASE HD
-#EXTGRP:BELGESEL
+#EXTINF:0, Discovery SHOWCASE HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32845
-#EXTINF: -1 , History Channel HD
-#EXTGRP:BELGESEL
+#EXTINF:0, History Channel HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32810
-#EXTINF: -1 , HISTORY HD
-#EXTGRP:BELGESEL
+#EXTINF:0, HISTORY HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33011
-#EXTINF: -1 , NAT GEO HD
-#EXTGRP:BELGESEL
+#EXTINF:0, NAT GEO HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32746
-#EXTINF: -1 , NAT GEO PEOPLE FHD
-#EXTGRP:BELGESEL
+#EXTINF:0, NAT GEO PEOPLE FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32745
-#EXTINF: -1 , NAT GEO Wild HD
-#EXTGRP:BELGESEL
+#EXTINF:0, NAT GEO Wild HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32744
-#EXTINF: -1 , NATINOAL GEO WILD
-#EXTGRP:BELGESEL
+#EXTINF:0, NATINOAL GEO WILD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33037
-#EXTINF: -1 , NATIONAL GEOGRAPHIC HD
-#EXTGRP:BELGESEL
+#EXTINF:0, NATIONAL GEOGRAPHIC HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33038
-#EXTINF: -1 , TGRT Belgesel HD
-#EXTGRP:BELGESEL
+#EXTINF:0, TGRT Belgesel HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32684
-#EXTINF: -1 , TRT Belgesel
-#EXTGRP:BELGESEL
+#EXTINF:0, TRT Belgesel
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32936
-#EXTINF: -1 , TRT BELGESEL HD ( 1080P )
-#EXTGRP:BELGESEL
+#EXTINF:0, TRT BELGESEL HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32958
-#EXTINF: -1 , YABAN TV FHD
-#EXTGRP:BELGESEL
+#EXTINF:0, YABAN TV FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32678
-#EXTINF: -1 , YABAN TV
-#EXTGRP:BELGESEL
+#EXTINF:0, YABAN TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33068
-#EXTINF: -1 , 24 Kitchen HD
-#EXTGRP:BELGESEL
+#EXTINF:0, 24 Kitchen HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32931
-#EXTINF: -1 , POWER TURK HD
-#EXTGRP:MUZIK
+#EXTINF:0, POWER TURK HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33045
-#EXTINF: -1 , KRAL POP TV
-#EXTGRP:MUZIK
+#EXTINF:0, KRAL POP TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33015
-#EXTINF: -1 , KRAL
-#EXTGRP:MUZIK
+#EXTINF:0, KRAL
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33014
-#EXTINF: -1 , DREAM TV
-#EXTGRP:MUZIK
+#EXTINF:0, DREAM TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33000
-#EXTINF: -1 , DREAM TURK TV
-#EXTGRP:MUZIK
+#EXTINF:0, DREAM TURK TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32999
-#EXTINF: -1 , 0NR 1 HD ( 1080P )
-#EXTGRP:MUZIK
+#EXTINF:0, 0NR 1 HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32967
-#EXTINF: -1 , POWER HD ( 1080P )
-#EXTGRP:MUZIK
+#EXTINF:0, POWER HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32964
-#EXTINF: -1 , POWER TüRK HD ( 1080P )
-#EXTGRP:MUZIK
+#EXTINF:0, POWER TüRK HD ( 1080P )
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32963
-#EXTINF: -1 , Power Turk
-#EXTGRP:MUZIK
+#EXTINF:0, Power Turk
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32945
-#EXTINF: -1 , TRT OKUL
-#EXTGRP:MUZIK
+#EXTINF:0, TRT OKUL
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32944
-#EXTINF: -1 , TRT MUZIK
-#EXTGRP:MUZIK
+#EXTINF:0, TRT MUZIK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32943
-#EXTINF: -1 , DREAM TV HD
-#EXTGRP:MUZIK
+#EXTINF:0, DREAM TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32838
-#EXTINF: -1 , KRAL POP HD
-#EXTGRP:MUZIK
+#EXTINF:0, KRAL POP HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32792
-#EXTINF: -1 , Kral World HD
-#EXTGRP:MUZIK
+#EXTINF:0, Kral World HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32791
-#EXTINF: -1 , Koy TV
-#EXTGRP:MUZIK
+#EXTINF:0, Koy TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32790
-#EXTINF: -1 , NR1 HD
-#EXTGRP:MUZIK
+#EXTINF:0, NR1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32741
-#EXTINF: -1 , NR1 TURK HD
-#EXTGRP:MUZIK
+#EXTINF:0, NR1 TURK HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32740
-#EXTINF: -1 , NUMBER 1 HD
-#EXTGRP:MUZIK
+#EXTINF:0, NUMBER 1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33042
-#EXTINF: -1 , POWER HD
-#EXTGRP:MUZIK
+#EXTINF:0, POWER HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32732
-#EXTINF: -1 , POWER TURK HD
-#EXTGRP:MUZIK
+#EXTINF:0, POWER TURK HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32731
-#EXTINF: -1 , CARTOON NETWORK HD
-#EXTGRP:COCUK
+#EXTINF:0, CARTOON NETWORK HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33046
-#EXTINF: -1 , NICK JR
-#EXTGRP:COCUK
+#EXTINF:0, NICK JR
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33040
-#EXTINF: -1 , NICKELODEON HD
-#EXTGRP:COCUK
+#EXTINF:0, NICKELODEON HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33039
-#EXTINF: -1 , MINIKA GO
-#EXTGRP:COCUK
+#EXTINF:0, MINIKA GO
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33022
-#EXTINF: -1 , MINIKA COCUK
-#EXTGRP:COCUK
+#EXTINF:0, MINIKA COCUK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33021
-#EXTINF: -1 , BOOMERANG
-#EXTGRP:COCUK
+#EXTINF:0, BOOMERANG
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33017
-#EXTINF: -1 , DISNEY XD / DUCK
-#EXTGRP:COCUK
+#EXTINF:0, DISNEY XD / DUCK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32997
-#EXTINF: -1 , DISNEY JR
-#EXTGRP:COCUK
+#EXTINF:0, DISNEY JR
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32996
-#EXTINF: -1 , DISNEY CHANNEL
-#EXTGRP:COCUK
+#EXTINF:0, DISNEY CHANNEL
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32995
-#EXTINF: -1 , BABY TV
-#EXTGRP:COCUK
+#EXTINF:0, BABY TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32984
-#EXTINF: -1 , Minika Cocuk(1)
-#EXTGRP:COCUK
+#EXTINF:0, Minika Cocuk(1)
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32938
-#EXTINF: -1 , Baby TV HD
-#EXTGRP:COCUK
+#EXTINF:0, Baby TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32909
-#EXTINF: -1 , BABYF
-#EXTGRP:COCUK
+#EXTINF:0, BABYF
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32870
-#EXTINF: -1 , Cartoon Network HD
-#EXTGRP:COCUK
+#EXTINF:0, Cartoon Network HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32864
-#EXTINF: -1 , Disney Channel HD
-#EXTGRP:COCUK
+#EXTINF:0, Disney Channel HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32844
-#EXTINF: -1 , DISNEY JR HD
-#EXTGRP:COCUK
+#EXTINF:0, DISNEY JR HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32843
-#EXTINF: -1 , minika COCUK HD
-#EXTGRP:COCUK
+#EXTINF:0, minika COCUK HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32761
-#EXTINF: -1 , MINIKA GO HD
-#EXTGRP:COCUK
+#EXTINF:0, MINIKA GO HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32760
-#EXTINF: -1 , AKILLI TAVSAN MOMO TV
-#EXTGRP:COCUK
+#EXTINF:0, AKILLI TAVSAN MOMO TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32923
-#EXTINF: -1 , PEPE TV
-#EXTGRP:COCUK
+#EXTINF:0, PEPE TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32735
-#EXTINF: -1 , PLANET COCUK
-#EXTGRP:COCUK
+#EXTINF:0, PLANET COCUK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33043
-#EXTINF: -1 , SL Kukuli TV
-#EXTGRP:COCUK
+#EXTINF:0, SL Kukuli TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32850
-#EXTINF: -1 , SL Niloya TV
-#EXTGRP:COCUK
+#EXTINF:0, SL Niloya TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32849
-#EXTINF: -1 , SL Pepee TV
-#EXTGRP:COCUK
+#EXTINF:0, SL Pepee TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32840
-#EXTINF: -1 , TRT Cocuk FHD
-#EXTGRP:COCUK
+#EXTINF:0, TRT Cocuk FHD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32695
-#EXTINF: -1 , TRT COCUK HD
-#EXTGRP:COCUK
+#EXTINF:0, TRT COCUK HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32951
-#EXTINF: -1 , Aks TV
-#EXTGRP:YEREL
+#EXTINF:0, Aks TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32920
-#EXTINF: -1 , Aksu TV
-#EXTGRP:YEREL
+#EXTINF:0, Aksu TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32919
-#EXTINF: -1 , Aktif TV HD
-#EXTGRP:YEREL
+#EXTINF:0, Aktif TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32918
-#EXTINF: -1 , Altas Tv
-#EXTGRP:YEREL
+#EXTINF:0, Altas Tv
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32917
-#EXTINF: -1 , ALTAS TV
-#EXTGRP:YEREL
+#EXTINF:0, ALTAS TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32736
-#EXTINF: -1 , Arti tv HD KU
-#EXTGRP:YEREL
+#EXTINF:0, Arti tv HD KU
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32913
-#EXTINF: -1 , As TV
-#EXTGRP:YEREL
+#EXTINF:0, As TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32912
-#EXTINF: -1 , Ballkan TV
-#EXTGRP:YEREL
+#EXTINF:0, Ballkan TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32908
-#EXTINF: -1 , BENGU TüRK
-#EXTGRP:YEREL
+#EXTINF:0, BENGU TüRK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32985
-#EXTINF: -1 , BENGUTURK TV
-#EXTGRP:YEREL
+#EXTINF:0, BENGUTURK TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32875
-#EXTINF: -1 , BEYKENT TV
-#EXTGRP:YEREL
+#EXTINF:0, BEYKENT TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32796
-#EXTINF: -1 , BRUKSEL TURK TV
-#EXTGRP:YEREL
+#EXTINF:0, BRUKSEL TURK TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32869
-#EXTINF: -1 , BURSA TV HD
-#EXTGRP:YEREL
+#EXTINF:0, BURSA TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32868
-#EXTINF: -1 , Cay TV
-#EXTGRP:YEREL
+#EXTINF:0, Cay TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32698
-#EXTINF: -1 , Cem TV
-#EXTGRP:YEREL
+#EXTINF:0, Cem TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32862
-#EXTINF: -1 , CEM TV
-#EXTGRP:YEREL
+#EXTINF:0, CEM TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32989
-#EXTINF: -1 , Ciftci TV
-#EXTGRP:YEREL
+#EXTINF:0, Ciftci TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32861
-#EXTINF: -1 , Deniz Haber
-#EXTGRP:YEREL
+#EXTINF:0, Deniz Haber
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32816
-#EXTINF: -1 , DIYALOG TV
-#EXTGRP:YEREL
+#EXTINF:0, DIYALOG TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32774
-#EXTINF: -1 , Diyar tv
-#EXTGRP:YEREL
+#EXTINF:0, Diyar tv
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32863
-#EXTINF: -1 , Dost TV
-#EXTGRP:YEREL
+#EXTINF:0, Dost TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32839
-#EXTINF: -1 , DOST TV
-#EXTGRP:YEREL
+#EXTINF:0, DOST TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32998
-#EXTINF: -1 , DRT DENIZLI
-#EXTGRP:YEREL
+#EXTINF:0, DRT DENIZLI
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32808
-#EXTINF: -1 , Edessa TV
-#EXTGRP:YEREL
+#EXTINF:0, Edessa TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32837
-#EXTINF: -1 , Ege Turk TV
-#EXTGRP:YEREL
+#EXTINF:0, Ege Turk TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32836
-#EXTINF: -1 , Etv Manisa
-#EXTGRP:YEREL
+#EXTINF:0, Etv Manisa
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33005
-#EXTINF: -1 , Kabe TV
-#EXTGRP:YEREL
+#EXTINF:0, Kabe TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32807
-#EXTINF: -1 , KANAL 24
-#EXTGRP:YEREL
+#EXTINF:0, KANAL 24
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33013
-#EXTINF: -1 , Kanal 26
-#EXTGRP:YEREL
+#EXTINF:0, Kanal 26
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32804
-#EXTINF: -1 , Kanal 43
-#EXTGRP:YEREL
+#EXTINF:0, Kanal 43
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32803
-#EXTINF: -1 , KANAL 68
-#EXTGRP:YEREL
+#EXTINF:0, KANAL 68
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32802
-#EXTINF: -1 , KANAL AVRUPA
-#EXTGRP:YEREL
+#EXTINF:0, KANAL AVRUPA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32801
-#EXTINF: -1 , KANAL B HD
-#EXTGRP:YEREL
+#EXTINF:0, KANAL B HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32800
-#EXTINF: -1 , KANAL URFA
-#EXTGRP:YEREL
+#EXTINF:0, KANAL URFA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32799
-#EXTINF: -1 , Kanal V
-#EXTGRP:YEREL
+#EXTINF:0, Kanal V
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32798
-#EXTINF: -1 , KIBRIS DIYALOG
-#EXTGRP:YEREL
+#EXTINF:0, KIBRIS DIYALOG
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32811
-#EXTINF: -1 , Kon TV HD
-#EXTGRP:YEREL
+#EXTINF:0, Kon TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32794
-#EXTINF: -1 , KRT TV HD
-#EXTGRP:YEREL
+#EXTINF:0, KRT TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32789
-#EXTINF: -1 , KUDUS TV
-#EXTGRP:YEREL
+#EXTINF:0, KUDUS TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32788
-#EXTINF: -1 , LALEGUL TV
-#EXTGRP:YEREL
+#EXTINF:0, LALEGUL TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32786
-#EXTINF: -1 , LINE TV (Bursa)
-#EXTGRP:YEREL
+#EXTINF:0, LINE TV (Bursa)
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32734
-#EXTINF: -1 , Mavi Karadeniz TV
-#EXTGRP:YEREL
+#EXTINF:0, Mavi Karadeniz TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32768
-#EXTINF: -1 , MC EU US
-#EXTGRP:YEREL
+#EXTINF:0, MC EU US
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32767
-#EXTINF: -1 , Medine TV
-#EXTGRP:YEREL
+#EXTINF:0, Medine TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32766
-#EXTINF: -1 , MELTEM TV
-#EXTGRP:YEREL
+#EXTINF:0, MELTEM TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32764
-#EXTINF: -1 , MILYON TV
-#EXTGRP:YEREL
+#EXTINF:0, MILYON TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32762
-#EXTINF: -1 , MISKET TV
-#EXTGRP:YEREL
+#EXTINF:0, MISKET TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32721
-#EXTINF: -1 , Olay TV
-#EXTGRP:YEREL
+#EXTINF:0, Olay TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32737
-#EXTINF: -1 , ON4
-#EXTGRP:YEREL
+#EXTINF:0, ON4
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32787
-#EXTINF: -1 , Rehber TV
-#EXTGRP:YEREL
+#EXTINF:0, Rehber TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33006
-#EXTINF: -1 , Royal TV
-#EXTGRP:YEREL
+#EXTINF:0, Royal TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32720
-#EXTINF: -1 , SAT7 TURK
-#EXTGRP:YEREL
+#EXTINF:0, SAT7 TURK
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32722
-#EXTINF: -1 , SRT Sivas
-#EXTGRP:YEREL
+#EXTINF:0, SRT Sivas
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32694
-#EXTINF: -1 , TEMPO TV
-#EXTGRP:YEREL
+#EXTINF:0, TEMPO TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32776
-#EXTINF: -1 , TV 4
-#EXTGRP:YEREL
+#EXTINF:0, TV 4
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32815
-#EXTINF: -1 , TV 4 HD
-#EXTGRP:YEREL
+#EXTINF:0, TV 4 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32852
-#EXTINF: -1 , Tv A
-#EXTGRP:YEREL
+#EXTINF:0, Tv A
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32916
-#EXTINF: -1 , TV EM
-#EXTGRP:YEREL
+#EXTINF:0, TV EM
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32777
-#EXTINF: -1 , TV KAYSERI
-#EXTGRP:YEREL
+#EXTINF:0, TV KAYSERI
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32910
-#EXTINF: -1 , TV5
-#EXTGRP:YEREL
+#EXTINF:0, TV5
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/33065
-#EXTINF: -1 , VATAN TV HD
-#EXTGRP:YEREL
+#EXTINF:0, VATAN TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32793
-#EXTINF: -1 , VIZYON 58
-#EXTGRP:YEREL
+#EXTINF:0, VIZYON 58
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/32690
-#EXTINF: -1 , tv1000
-#EXTGRP:RUS
+#EXTINF:0, tv1000
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52281
-#EXTINF: -1 , TV1000 COMEDY HD
-#EXTGRP:RUS
+#EXTINF:0, TV1000 COMEDY HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52282
-#EXTINF: -1 , TV1000 MEGAHIT HD
-#EXTGRP:RUS
+#EXTINF:0, TV1000 MEGAHIT HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52283
-#EXTINF: -1 , TV1000 PREMIERE HD
-#EXTGRP:RUS
+#EXTINF:0, TV1000 PREMIERE HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52187
-#EXTINF: -1 , TV1000 PREMIUM HD
-#EXTGRP:RUS
+#EXTINF:0, TV1000 PREMIUM HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52284
-#EXTINF: -1 , DOM KINO
-#EXTGRP:RUS
+#EXTINF:0, DOM KINO
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52159
-#EXTINF: -1 , DOM KINO PREMIUM
-#EXTGRP:RUS
+#EXTINF:0, DOM KINO PREMIUM
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52158
-#EXTINF: -1 , 112 UA
-#EXTGRP:RUS
+#EXTINF:0, 112 UA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52179
-#EXTINF: -1 , 22x2
-#EXTGRP:RUS
+#EXTINF:0, 22x2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52176
-#EXTINF: -1 , 24 ТЕХНО
-#EXTGRP:RUS
+#EXTINF:0, 24 ТЕХНО
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52253
-#EXTINF: -1 , 2x2 TV
-#EXTGRP:RUS
+#EXTINF:0, 2x2 TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52273
-#EXTINF: -1 , 365 Days
-#EXTGRP:RUS
+#EXTINF:0, 365 Days
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52269
-#EXTINF: -1 , A1
-#EXTGRP:RUS
+#EXTINF:0, A1
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52214
-#EXTINF: -1 , Akudji HD
-#EXTGRP:RUS
+#EXTINF:0, Akudji HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52173
-#EXTINF: -1 , AMC
-#EXTGRP:RUS
+#EXTINF:0, AMC
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52257
-#EXTINF: -1 , Amedia
-#EXTGRP:RUS
+#EXTINF:0, Amedia
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52267
-#EXTINF: -1 , Amedia 2
-#EXTGRP:RUS
+#EXTINF:0, Amedia 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52271
-#EXTINF: -1 , ANI
-#EXTGRP:RUS
+#EXTINF:0, ANI
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52213
-#EXTINF: -1 , AXN
-#EXTGRP:RUS
+#EXTINF:0, AXN
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52280
-#EXTINF: -1 , Box TV
-#EXTGRP:RUS
+#EXTINF:0, Box TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52180
-#EXTINF: -1 , BOXE TB
-#EXTGRP:RUS
+#EXTINF:0, BOXE TB
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52243
-#EXTINF: -1 , Brodilo HD
-#EXTGRP:RUS
+#EXTINF:0, Brodilo HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52172
-#EXTINF: -1 , Cartoon Network
-#EXTGRP:RUS
+#EXTINF:0, Cartoon Network
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52286
-#EXTINF: -1 , CHP Info
-#EXTGRP:RUS
+#EXTINF:0, CHP Info
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52171
-#EXTINF: -1 , Cinema
-#EXTGRP:RUS
+#EXTINF:0, Cinema
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52239
-#EXTINF: -1 , CTC
-#EXTGRP:RUS
+#EXTINF:0, CTC
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52249
-#EXTINF: -1 , CTC LOVE
-#EXTGRP:RUS
+#EXTINF:0, CTC LOVE
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52147
-#EXTINF: -1 , DA VINCI LEARNING
-#EXTGRP:RUS
+#EXTINF:0, DA VINCI LEARNING
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52201
-#EXTINF: -1 , Detective
-#EXTGRP:RUS
+#EXTINF:0, Detective
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52230
-#EXTINF: -1 , DISCOVERY CHANNEL HD
-#EXTGRP:RUS
+#EXTINF:0, DISCOVERY CHANNEL HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52265
-#EXTINF: -1 , Discovery Science HD
-#EXTGRP:RUS
+#EXTINF:0, Discovery Science HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52246
-#EXTINF: -1 , Disney Channel HD
-#EXTGRP:RUS
+#EXTINF:0, Disney Channel HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52245
-#EXTINF: -1 , Disney Kanal
-#EXTGRP:RUS
+#EXTINF:0, Disney Kanal
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52266
-#EXTINF: -1 , EUREKA HD
-#EXTGRP:RUS
+#EXTINF:0, EUREKA HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52264
-#EXTINF: -1 , Euro News HD
-#EXTGRP:RUS
+#EXTINF:0, Euro News HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52242
-#EXTINF: -1 , EUROKINO
-#EXTGRP:RUS
+#EXTINF:0, EUROKINO
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52197
-#EXTINF: -1 , Euronews RUSsian HD
-#EXTGRP:RUS
+#EXTINF:0, Euronews RUSsian HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52168
-#EXTINF: -1 , Eurosport 2 HD
-#EXTGRP:RUS
+#EXTINF:0, Eurosport 2 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52240
-#EXTINF: -1 , Extreme Sports
-#EXTGRP:RUS
+#EXTINF:0, Extreme Sports
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52238
-#EXTINF: -1 , FINE LIVING HD
-#EXTGRP:RUS
+#EXTINF:0, FINE LIVING HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52237
-#EXTINF: -1 , First Channel
-#EXTGRP:RUS
+#EXTINF:0, First Channel
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52196
-#EXTINF: -1 , FOX HD
-#EXTGRP:RUS
+#EXTINF:0, FOX HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52235
-#EXTINF: -1 , FOX LIFE
-#EXTGRP:RUS
+#EXTINF:0, FOX LIFE
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52277
-#EXTINF: -1 , Friday
-#EXTGRP:RUS
+#EXTINF:0, Friday
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52270
-#EXTINF: -1 , FUTBOL 3 HD
-#EXTGRP:RUS
+#EXTINF:0, FUTBOL 3 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52233
-#EXTINF: -1 , Gorizont TV UA
-#EXTGRP:RUS
+#EXTINF:0, Gorizont TV UA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52166
-#EXTINF: -1 , Gromads'ke
-#EXTGRP:RUS
+#EXTINF:0, Gromads'ke
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52165
-#EXTINF: -1 , H&F
-#EXTGRP:RUS
+#EXTINF:0, H&F
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52195
-#EXTINF: -1 , HAWE HOBEW
-#EXTGRP:RUS
+#EXTINF:0, HAWE HOBEW
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52190
-#EXTINF: -1 , HBO 3
-#EXTGRP:RUS
+#EXTINF:0, HBO 3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52188
-#EXTINF: -1 , History HD
-#EXTGRP:RUS
+#EXTINF:0, History HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52231
-#EXTINF: -1 , HOME
-#EXTGRP:RUS
+#EXTINF:0, HOME
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52251
-#EXTINF: -1 , HOME TB
-#EXTGRP:RUS
+#EXTINF:0, HOME TB
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52248
-#EXTINF: -1 , Horse World
-#EXTGRP:RUS
+#EXTINF:0, Horse World
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52186
-#EXTINF: -1 , HTB HD
-#EXTGRP:RUS
+#EXTINF:0, HTB HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52263
-#EXTINF: -1 , Illusion
-#EXTGRP:RUS
+#EXTINF:0, Illusion
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52250
-#EXTINF: -1 , Impact
-#EXTGRP:RUS
+#EXTINF:0, Impact
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52219
-#EXTINF: -1 , Impact
-#EXTGRP:RUS
+#EXTINF:0, Impact
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52163
-#EXTINF: -1 , Inter
-#EXTGRP:RUS
+#EXTINF:0, Inter
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52162
-#EXTINF: -1 , JimJam
-#EXTGRP:RUS
+#EXTINF:0, JimJam
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52247
-#EXTINF: -1 , K1
-#EXTGRP:RUS
+#EXTINF:0, K1
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52161
-#EXTINF: -1 , Kaledoskop
-#EXTGRP:RUS
+#EXTINF:0, Kaledoskop
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52160
-#EXTINF: -1 , Karusel TV
-#EXTGRP:RUS
+#EXTINF:0, Karusel TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52244
-#EXTINF: -1 , KHL TV HD
-#EXTGRP:RUS
+#EXTINF:0, KHL TV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52229
-#EXTINF: -1 , KIDS
-#EXTGRP:RUS
+#EXTINF:0, KIDS
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52184
-#EXTINF: -1 , Kino Cinema HD
-#EXTGRP:RUS
+#EXTINF:0, Kino Cinema HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52226
-#EXTINF: -1 , Kino Hit HD
-#EXTGRP:RUS
+#EXTINF:0, Kino Hit HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52227
-#EXTINF: -1 , Kino Home
-#EXTGRP:RUS
+#EXTINF:0, Kino Home
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52228
-#EXTINF: -1 , KINO Klub HD
-#EXTGRP:RUS
+#EXTINF:0, KINO Klub HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52199
-#EXTINF: -1 , Kino Plus
-#EXTGRP:RUS
+#EXTINF:0, Kino Plus
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52183
-#EXTINF: -1 , KinoSvidanie
-#EXTGRP:RUS
+#EXTINF:0, KinoSvidanie
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52181
-#EXTINF: -1 , LIFE HD
-#EXTGRP:RUS
+#EXTINF:0, LIFE HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52224
-#EXTINF: -1 , Match Futbol 1
-#EXTGRP:RUS
+#EXTINF:0, Match Futbol 1
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52175
-#EXTINF: -1 , Match Futbol 2
-#EXTGRP:RUS
+#EXTINF:0, Match Futbol 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52174
-#EXTINF: -1 , Match Futbol 3
-#EXTGRP:RUS
+#EXTINF:0, Match Futbol 3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52170
-#EXTINF: -1 , MATCH IGRA
-#EXTGRP:RUS
+#EXTINF:0, MATCH IGRA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52167
-#EXTINF: -1 , Match Our Sports
-#EXTGRP:RUS
+#EXTINF:0, Match Our Sports
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52236
-#EXTINF: -1 , Match Premier
-#EXTGRP:RUS
+#EXTINF:0, Match Premier
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52182
-#EXTINF: -1 , Match Sports
-#EXTGRP:RUS
+#EXTINF:0, Match Sports
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52272
-#EXTINF: -1 , Match Sports
-#EXTGRP:RUS
+#EXTINF:0, Match Sports
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52258
-#EXTINF: -1 , Match! Apeha HD
-#EXTGRP:RUS
+#EXTINF:0, Match! Apeha HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52222
-#EXTINF: -1 , Match! Arena
-#EXTGRP:RUS
+#EXTINF:0, Match! Arena
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52262
-#EXTINF: -1 , Match! HD
-#EXTGRP:RUS
+#EXTINF:0, Match! HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52221
-#EXTINF: -1 , Match! Planet
-#EXTGRP:RUS
+#EXTINF:0, Match! Planet
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52220
-#EXTINF: -1 , MIR 24
-#EXTGRP:RUS
+#EXTINF:0, MIR 24
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52204
-#EXTINF: -1 , Mir Belogor'ya
-#EXTGRP:RUS
+#EXTINF:0, Mir Belogor'ya
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52156
-#EXTINF: -1 , MIR HD
-#EXTGRP:RUS
+#EXTINF:0, MIR HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52218
-#EXTINF: -1 , Mnogoserijnoje
-#EXTGRP:RUS
+#EXTINF:0, Mnogoserijnoje
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52164
-#EXTINF: -1 , MostVideo HD
-#EXTGRP:RUS
+#EXTINF:0, MostVideo HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52155
-#EXTINF: -1 , MTV
-#EXTGRP:RUS
+#EXTINF:0, MTV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52261
-#EXTINF: -1 , MTV Dance
-#EXTGRP:RUS
+#EXTINF:0, MTV Dance
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52149
-#EXTINF: -1 , MTV РОССИЯ
-#EXTGRP:RUS
+#EXTINF:0, MTV РОССИЯ
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52252
-#EXTINF: -1 , MULT
-#EXTGRP:RUS
+#EXTINF:0, MULT
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52146
-#EXTINF: -1 , MUSICBOX UA
-#EXTGRP:RUS
+#EXTINF:0, MUSICBOX UA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52260
-#EXTINF: -1 , MUZ TV
-#EXTGRP:RUS
+#EXTINF:0, MUZ TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52234
-#EXTINF: -1 , Muzhskoe kino
-#EXTGRP:RUS
+#EXTINF:0, Muzhskoe kino
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52142
-#EXTINF: -1 , MuzSoyuz
-#EXTGRP:RUS
+#EXTINF:0, MuzSoyuz
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52154
-#EXTINF: -1 , MY PLANET
-#EXTGRP:RUS
+#EXTINF:0, MY PLANET
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52255
-#EXTINF: -1 , MY3 TB
-#EXTGRP:RUS
+#EXTINF:0, MY3 TB
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52232
-#EXTINF: -1 , Nadiya
-#EXTGRP:RUS
+#EXTINF:0, Nadiya
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52153
-#EXTINF: -1 , Nano TV
-#EXTGRP:RUS
+#EXTINF:0, Nano TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52152
-#EXTINF: -1 , Nash Futbol HD
-#EXTGRP:RUS
+#EXTINF:0, Nash Futbol HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52211
-#EXTINF: -1 , Nashe Kino
-#EXTGRP:RUS
+#EXTINF:0, Nashe Kino
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52274
-#EXTINF: -1 , NAT GEO HD
-#EXTGRP:RUS
+#EXTINF:0, NAT GEO HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52210
-#EXTINF: -1 , NAT GEO Wild HD
-#EXTGRP:RUS
+#EXTINF:0, NAT GEO Wild HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52209
-#EXTINF: -1 , National Geographic
-#EXTGRP:RUS
+#EXTINF:0, National Geographic
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52275
-#EXTINF: -1 , NICK Junior HD
-#EXTGRP:RUS
+#EXTINF:0, NICK Junior HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52207
-#EXTINF: -1 , Nickelodeon HD
-#EXTGRP:RUS
+#EXTINF:0, Nickelodeon HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52206
-#EXTINF: -1 , NTS (Sevastopol')
-#EXTGRP:RUS
+#EXTINF:0, NTS (Sevastopol')
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52151
-#EXTINF: -1 , NTV FOOTBALL 2
-#EXTGRP:RUS
+#EXTINF:0, NTV FOOTBALL 2
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52141
-#EXTINF: -1 , NTV FOOTBALL 3
-#EXTGRP:RUS
+#EXTINF:0, NTV FOOTBALL 3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52139
-#EXTINF: -1 , NTV HD
-#EXTGRP:RUS
+#EXTINF:0, NTV HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52205
-#EXTINF: -1 , NTV Mir
-#EXTGRP:RUS
+#EXTINF:0, NTV Mir
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52140
-#EXTINF: -1 , Ohota i Rybalka
-#EXTGRP:RUS
+#EXTINF:0, Ohota i Rybalka
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52212
-#EXTINF: -1 , ONE BY
-#EXTGRP:RUS
+#EXTINF:0, ONE BY
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52177
-#EXTINF: -1 , One Channel
-#EXTGRP:RUS
+#EXTINF:0, One Channel
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52138
-#EXTINF: -1 , our cinema
-#EXTGRP:RUS
+#EXTINF:0, our cinema
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52137
-#EXTINF: -1 , Our sport
-#EXTGRP:RUS
+#EXTINF:0, Our sport
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52203
-#EXTINF: -1 , Outdoor Channel HD
-#EXTGRP:RUS
+#EXTINF:0, Outdoor Channel HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52202
-#EXTINF: -1 , PARAMOUNT COMEDY HD
-#EXTGRP:RUS
+#EXTINF:0, PARAMOUNT COMEDY HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52200
-#EXTINF: -1 , Pink Folk
-#EXTGRP:RUS
+#EXTINF:0, Pink Folk
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52136
-#EXTINF: -1 , Premiera
-#EXTGRP:RUS
+#EXTINF:0, Premiera
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52276
-#EXTINF: -1 , RBK.
-#EXTGRP:RUS
+#EXTINF:0, RBK.
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52148
-#EXTINF: -1 , REN TV
-#EXTGRP:RUS
+#EXTINF:0, REN TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52259
-#EXTINF: -1 , RTG HD
-#EXTGRP:RUS
+#EXTINF:0, RTG HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52198
-#EXTINF: -1 , RTVI NASHE KINO
-#EXTGRP:RUS
+#EXTINF:0, RTVI NASHE KINO
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52135
-#EXTINF: -1 , RU.TV
-#EXTGRP:RUS
+#EXTINF:0, RU.TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52215
-#EXTINF: -1 , RUSSIA  1 HD
-#EXTGRP:RUS
+#EXTINF:0, RUSSIA  1 HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52145
-#EXTINF: -1 , RUSsia League HD
-#EXTGRP:RUS
+#EXTINF:0, RUSsia League HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52278
-#EXTINF: -1 , Russia Roman
-#EXTGRP:RUS
+#EXTINF:0, Russia Roman
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52134
-#EXTINF: -1 , Russia Today
-#EXTGRP:RUS
+#EXTINF:0, Russia Today
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52133
-#EXTINF: -1 , RUSsian Music Box
-#EXTGRP:RUS
+#EXTINF:0, RUSsian Music Box
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52144
-#EXTINF: -1 , Shanson.TV
-#EXTGRP:RUS
+#EXTINF:0, Shanson.TV
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52143
-#EXTINF: -1 , SOJUZ
-#EXTGRP:RUS
+#EXTINF:0, SOJUZ
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52157
-#EXTINF: -1 , Sony Turbo
-#EXTGRP:RUS
+#EXTINF:0, Sony Turbo
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52279
-#EXTINF: -1 , SOYUZ
-#EXTGRP:RUS
+#EXTINF:0, SOYUZ
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52194
-#EXTINF: -1 , Sport 1 UA
-#EXTGRP:RUS
+#EXTINF:0, Sport 1 UA
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52193
-#EXTINF: -1 , Sport Fights
-#EXTGRP:RUS
+#EXTINF:0, Sport Fights
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52150
-#EXTINF: -1 , Star TB
-#EXTGRP:RUS
+#EXTINF:0, Star TB
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52225
-#EXTINF: -1 , Strana FM HD
-#EXTGRP:RUS
+#EXTINF:0, Strana FM HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52178
-#EXTINF: -1 , TB3
-#EXTGRP:RUS
+#EXTINF:0, TB3
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52208
-#EXTINF: -1 , TLC HD
-#EXTGRP:RUS
+#EXTINF:0, TLC HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52192
-#EXTINF: -1 , TNT HD
-#EXTGRP:RUS
+#EXTINF:0, TNT HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52191
-#EXTINF: -1 , Travel Channel HD
-#EXTGRP:RUS
+#EXTINF:0, Travel Channel HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52189
-#EXTINF: -1 , TV XXI
-#EXTGRP:RUS
+#EXTINF:0, TV XXI
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52268
-#EXTINF: -1 , VIASAT EXPLORE HD
-#EXTGRP:RUS
+#EXTINF:0, VIASAT EXPLORE HD
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52185
-#EXTINF: -1 , VIASAT HISTORY
-#EXTGRP:RUS
+#EXTINF:0, VIASAT HISTORY
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52254
-#EXTINF: -1 , VIASAT NATURE
-#EXTGRP:RUS
+#EXTINF:0, VIASAT NATURE
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52241
-#EXTINF: -1 , VIASAT SPORT EAST
-#EXTGRP:RUS
+#EXTINF:0, VIASAT SPORT EAST
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52285
-#EXTINF: -1 , Xtream Sports
-#EXTGRP:RUS
+#EXTINF:0, Xtream Sports
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52256
-#EXTINF: -1 , YUTV (Cheboksary)
-#EXTGRP:RUS
+#EXTINF:0, YUTV (Cheboksary)
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52132
-#EXTINF: -1 , Zoo Park
-#EXTGRP:RUS
+#EXTINF:0, Zoo Park
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52287
-#EXTINF: -1 , Zvezda
-#EXTGRP:RUS
+#EXTINF:0, Zvezda
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52131
-#EXTINF: -1 , САРАФАН
-#EXTGRP:RUS
+#EXTINF:0, САРАФАН
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52223
-#EXTINF: -1 , ТВЦ
-#EXTGRP:RUS
+#EXTINF:0, ТВЦ
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52217
-#EXTINF: -1 , ЭГОИСТ ТВ
-#EXTGRP:RUS
+#EXTINF:0, ЭГОИСТ ТВ
 http://ea8.oknirvana.club:8880/6M6427/END5tVFZHr/52216
